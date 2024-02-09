@@ -41,5 +41,4 @@ def inside(points, target):
         range(len(points))
     ))) % 2 == 1
 
-
 print(inside([(2, 3), (5, 7), (8, 5), (6, 2), (4, 1)], (100, 100)))
